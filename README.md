@@ -7,7 +7,7 @@ english:Obfuscator start command
 Liquidbounce can be obfuscated 
 Exclusion format is like: net/ccbluex/liquidbounce/injection/,
 
-Chinese：bfuscator启动命令
+Chinese：obfuscator启动命令
 -java -jar A07-obfuscator.jar
 
 Liquidbounce可以被混淆 
